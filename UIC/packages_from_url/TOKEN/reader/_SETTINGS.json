@@ -1,0 +1,22 @@
+{
+  "reader_settings": {
+    "mode": "all",
+    "HANDSHAKE_mode": "passive",
+    "read_mode": "rb"
+  },
+  "MySQL": {
+    ".dat": "MySQL-Database",
+    ".dll": "|DataBase-dll|",
+    "background-process-list": "|<ignore>|",
+    "Java_Config": {
+      "read_mode": "['.json', '.json5']",
+      "\fG": "/Devel-Instant/<ingore,passive>",
+      "background_process_list": {
+        ".json": "-HIGH",
+        ".py": "-HIGH",
+        ".edittorconfig": "-LOW"
+      },
+      "mode": "passive"
+    }
+  }
+}
