@@ -2,9 +2,9 @@
 
 Check your site of sql and pkgs attacks
 
-*Instalation:
+# Instalation:
 
- # Linux
+ *Linux
  ```
  apt install git
  
@@ -17,18 +17,18 @@ Check your site of sql and pkgs attacks
  ./modules_install_linux.sh
 ```
 
- # Termux
+ *Termux
 ```
   pkg install git
   
   git clone https://github.com/damirstash34/Url-Injection-Checker
 ```
-  # Windows
-  *Install python
-  *Download .rar archive
-  *Run file UIC/installs/modules_install_windows.py
+ *Windows
+  Install python
+  Download .rar archive
+  Run file UIC/installs/modules_install_windows.py
  
-*USAGE:*
+# USAGE:
 ```
 python uic.py -- mode [True ol False]
 ```
