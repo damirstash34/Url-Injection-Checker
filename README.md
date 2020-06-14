@@ -22,6 +22,11 @@ Check your site of sql and pkgs attacks
   pkg install git
   
   git clone https://github.com/damirstash34/Url-Injection-Checker
+  cd Url-Injection-Checker
+
+  cd installs
+
+  ./modules_install_linux.sh
 ```
  *Windows
   Install python
