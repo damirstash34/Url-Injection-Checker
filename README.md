@@ -5,7 +5,7 @@ Check your site of sql and pkgs attacks
 
 # Instalation:
 
- <h1>Linux</h1>
+ Linux
  ```
  apt install git
  
@@ -18,7 +18,7 @@ Check your site of sql and pkgs attacks
  ./modules_install_linux.sh
 ```
 
- <h1>Termux</h1>
+ Termux
 ```
   pkg install git
   
@@ -29,7 +29,7 @@ Check your site of sql and pkgs attacks
 
   ./modules_install_linux.sh
 ```
- <h1>Windows</h1>
+ Windows
   Install python
   Download .rar archive
   Run file UIC/installs/modules_install_windows.py
