@@ -7,7 +7,7 @@ echo """
 |====================|
 |____________________|
 """
-read platform
+echo -n "platform>" ;read platform
 
 if [ $platform  = '1' ]
 then
