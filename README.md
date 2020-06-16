@@ -1,5 +1,4 @@
-[![Builded on Python](https://img.shields.io/badge/Builded%20on-Python-green.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/badge/Builded%20on-Python-green.svg)](https://GitHub.com/damirstash34/Url-Injection-Checker/graphs/contributors/) [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) ![repo-size]
-https://img.shields.io/badge/Builded%20on-Python-green.svg
+[![Builded on Python](https://img.shields.io/badge/Builded%20on-Python-green.svg)](https://www.python.org/) [![Repository contributors](https://img.shields.io/badge/Repository-contributors-blue.svg)](https://GitHub.com/damirstash34/Url-Injection-Checker/graphs/contributors/)
 # Url-Injection-Checker
 
 Check your site of sql and pkgs attacks
