@@ -1,4 +1,4 @@
-[![Builded on Python](https://img.shields.io/badge/Builded%20on-Python-green)]
+[![Builded on Python](https://img.shields.io/badge/Builded%20on-Python-green.svg)]
 # Url-Injection-Checker
 
 Check your site of sql and pkgs attacks
